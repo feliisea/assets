@@ -1,0 +1,38 @@
+/* primary - normal */
+@font-face {
+    font-family: 'primary';
+    src: url('KGPrimaryPenmanship.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* primary - wide */
+@font-face {
+    font-family: 'primary wide';
+    src: url('KGPrimaryPenmanship2.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* primary - italic */
+@font-face {
+    font-family: 'primary italic';
+    src: url('KGPrimaryItalics.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+/* primary - whimsy */
+@font-face {
+    font-family: 'primary whimsy';
+    src: url('KGPrimaryWhimsy.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
